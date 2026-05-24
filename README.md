@@ -2,6 +2,10 @@
 
 ComunidadActiva es una aplicacion movil Android desarrollada con Kotlin, Jetpack Compose y Firebase. Su objetivo es facilitar la gestion de eventos comunitarios, permitiendo crear eventos, confirmar asistencia, compartir invitaciones, registrar comentarios, calificaciones e historial de participacion.
 
+## DOCS IMPORTANTES
+MOCKUP APP
+TRABAJO FINAL
+
 ## Estado del proyecto
 
 Proyecto academico funcional en version demo.
