@@ -28,10 +28,10 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ## Autores
 
-- Integrante 1: [BANNESA OCHOA]
-- Integrante 2: [DANIELA TAMAYO]
-- Integrante 3: [ROLANDO GUEVARA]
-- Integrante 4: [VLADIMIR ORELLANA]
+- Integrante 1: Karen Banessa Ochoa García og241850
+- Integrante 2: Daniela Fernanda Tamayo Jovel tj231470 
+- Integrante 3: Rolando Giovanni Guevara Martir gm202436
+- Integrante 4: Ronald Vladimir Urias Orellana ro230537
 
 ## Nota
 
